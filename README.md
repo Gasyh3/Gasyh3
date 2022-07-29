@@ -1,4 +1,4 @@
-# Bonjour à tous, ici [Kévin - aka Gasyh3] [website] ✌🏽
+# Bonjour à tous, ici [Kévin - aka Gasyh3][website] ✌🏽
 
 ## Je suis passionné par le monde de la Tech
 
@@ -31,4 +31,3 @@
 [website]: http://kevin-rakotoniaina.com
 [twitter]: http://twitter.com/RakotoKev14
 [linkedin]: https://linkedin.com/in/rakoto-kevin
-# Gasyh3
